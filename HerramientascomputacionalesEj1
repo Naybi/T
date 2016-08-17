@@ -1,0 +1,52 @@
+1. 
+cd / 
+ls /var/log/a*.log
+
+2. 
+cd /../../a*log
+
+3. 
+mkdir miPractica
+cd miPractica mkdir usuario archivo
+
+4. 
+cd archivo 
+touch archivoraiz.dat
+
+5. 
+sudo su 
+cd /home/naybi
+chmod u-x miPractica 
+chmod g-x miPractica
+chmod g-w miPractica
+chmod o-x miPractica
+chmod o-w miPractica
+
+cd miPractica
+chmod u-x Usuario 
+chmod g-x Usuario
+chmod g-w Usuario
+chmod o-x Usuario
+chmod o-w Usuario
+chmod u-x Archivo 
+chmod g-x Archivo
+chmod g-w Archivo
+chmod o-x Archivo
+chmod o-w Archivo
+
+6.
+cp miPractica Documentos
+mv Documentos/miPractica Documentos/Ejercicios
+
+7.
+rmdir miPractica
+
+
+EQUIPO: 
+
+Colin F. Alan
+Leyva V. Norma N.
+Valdez H. Laura J.
+         
+
+
