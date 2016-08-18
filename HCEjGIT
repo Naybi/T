@@ -1,0 +1,27 @@
+1. 
+Ir a la página github hacer un nuevo repositorio: dando clic en "new repository"; darle nombre (yo lo llamé "T"); oprimir "create repository"
+
+2.git init 
+
+ 
+3. 
+touch README 
+
+4. 
+git remote add origin https://github.com/Naybi/T
+
+5. 
+git init
+git add HerramientascomputacionalesEj1
+git commit -m "primer tarea"
+git remote add origin https://github.com/Naybi/T
+git push -u origin master
+
+6. 
+git add HCEjGIT
+git commit -m "segunda tarea"
+git remot
+git push
+
+
+
